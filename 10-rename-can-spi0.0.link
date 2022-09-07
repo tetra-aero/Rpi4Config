@@ -1,0 +1,6 @@
+[Match]
+Driver=mcp251xfd
+Path=platform-fe204000.spi-cs-0
+
+[Link]
+Name=can_spi0.0
